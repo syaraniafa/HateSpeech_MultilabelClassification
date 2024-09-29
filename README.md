@@ -1,4 +1,4 @@
-# Hate Speech Multilabel Classification Project (Text Mining)
+# Hate Speech Multilabel Classification - Text Mining Project
 
 ## Case Study - Final Examination
 Hate speech on social media is a disruptive phenomenon, and automating its identification can help relevant authorities take action efficiently. In this project, the objective is to build a multilabel classification model using a Large Language Model (LLM) to identify different types of hate speech on social media. The classification includes labels for Hate Speech (HS), Abusive language, and more specific categories like HS_Individual, HS_Group, HS_Religion, HS_Race, HS_Physical, HS_Gender, and HS_Other.
